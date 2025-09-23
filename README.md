@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Vaibhav+Here+%F0%9F%91%8B;Learning+and+Growing...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&pause=1000&background=88FF8800&width=435&lines=Hello%F0%9F%91%8B%2C+My+name+is++Vaibhav+Dhakad;Learning+and+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### 💻 MERN Stack Learner | 🎓 IT Engineering Student | ✍️ Tech Blogger  
 
